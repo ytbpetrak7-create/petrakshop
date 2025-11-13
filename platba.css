@@ -1,0 +1,11 @@
+.visa p {
+    font-size: 60px;
+}
+.visa {
+  display: flex;
+
+}
+.visa img {
+    height: 60px;
+    margin: 75px; 
+}
