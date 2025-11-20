@@ -1,9 +1,4 @@
-.bile {
-  width: 10cm;
-  height: auto;
-  padding-left: 1cm;
-  padding-top: 5cm;
-}
+
 .popis {
     text-align: right;
     font-size: 1cm;
@@ -18,7 +13,4 @@
 a {
     font-size: 70px
     
-}
-.certricflex {
-    display: flex;
 }
