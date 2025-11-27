@@ -17,3 +17,10 @@ a {
 .flex{
    gap: 30px;
 }
+.nsr {
+    height: 200px;
+    
+}
+.link {
+      color: darkblue;
+}
