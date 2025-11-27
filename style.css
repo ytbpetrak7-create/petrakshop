@@ -12,8 +12,6 @@ p {
 div {
     color: black;
 }
-
-
 .rozbalovaci {
     overflow: hidden;
     font-size: 30px;
@@ -32,4 +30,9 @@ img {
 }
 a { 
     font-size: 1cm;
+}
+.link {
+    color: darkblue;
+    margin: 50px;
+    font-size: 70px;
 }
