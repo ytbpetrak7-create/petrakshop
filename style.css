@@ -32,7 +32,10 @@ a {
     font-size: 1cm;
 }
 .link {
-    color: darkblue;
+    color: black;
     margin: 50px;
     font-size: 70px;
+}
+body {
+     background-color: ;
 }
