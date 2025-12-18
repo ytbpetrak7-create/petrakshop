@@ -29,3 +29,6 @@ body {
      background-repeat: no-repeat;
      background-size: cover;
 }
+p {
+    color: lightblue;
+}

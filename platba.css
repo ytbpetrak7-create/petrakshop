@@ -10,5 +10,13 @@
     margin: 75px; 
 }
 .qrt {
-  height: 400px;
+  height: 500px;
+}
+body {
+     background-image: url(cer2.jpg);
+     background-repeat: no-repeat;
+     background-size: 100cm
+}
+p {
+  color: lightblue;
 }
