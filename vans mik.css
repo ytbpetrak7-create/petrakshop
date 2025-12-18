@@ -7,3 +7,14 @@ p {
 a {
     font-size: 50px;
 }
+body {
+     background-image: url(cer2.jpg);
+     background-repeat: no-repeat;
+     background-size: 100cm;
+}
+p {
+    color: lightblue;
+}
+a {
+    color: white;
+}

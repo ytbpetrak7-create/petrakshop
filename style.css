@@ -1,16 +1,16 @@
 h1 {
     text-align: center;
-    color: black;
+    color: white;
     font-size: 3cm;
     padding: 0px;
 }
 
 p {
-    color: black;
+    color: white;
     font-size: 1.5cm
 }
 div {
-    color: black;
+    color: white;
 }
 .rozbalovaci {
     overflow: hidden;
@@ -32,10 +32,12 @@ a {
     font-size: 1cm;
 }
 .link {
-    color: black;
+    color: lightblue;
     margin: 50px;
     font-size: 70px;
 }
 body {
-     background-color: ;
+     background-image: url(cer2.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
 }

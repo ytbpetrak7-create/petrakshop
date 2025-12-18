@@ -11,8 +11,8 @@
 }
     
 a {
-    font-size: 70px
-    
+  color: white;
+  font-size: 100px;
 }
 .flex{
    gap: 30px;
@@ -22,5 +22,10 @@ a {
     
 }
 .link {
-      color: darkblue;
+      color: lightblue;
+}
+body {
+     background-image: url(cer2.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
 }
