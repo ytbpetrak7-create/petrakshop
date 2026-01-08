@@ -45,3 +45,19 @@ body {
     margin: 10px;
     
 }
+.dis {
+    height: 110px;
+    margin: 10px;
+}
+.kick {
+    height: 110px;
+    margin: 10px;
+}
+.insta {
+    height: 110px;
+    margin: 10px;
+}
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
