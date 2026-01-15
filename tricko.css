@@ -13,6 +13,7 @@
 a {
   color: white;
   font-size: 100px;
+  display: flex;
 }
 .flex{
    gap: 30px;
@@ -23,12 +24,15 @@ a {
 }
 .link {
       color: lightblue;
+      
 }
 body {
      background-image: url(cer2.jpg);
      background-repeat: no-repeat;
      background-size: cover;
+     
 }
 p {
     color: lightblue;
+    
 }
