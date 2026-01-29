@@ -8,6 +8,8 @@ function overitkod() {
     if (kod.value == "kamosi") {
         window.location = './P7.html';
     } else {
-        alert("spatny kod lopato")
+        window.location = './kick.html';
     }
 }
+
+
